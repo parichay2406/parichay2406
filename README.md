@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Parichay Pothepalli</h1>
 <h3 align="center">An AI/ML enthusiast creating scalabale and efficient Large Language Model applications...</h3>
 
-- 🧑🏼‍🎓 4+ yrs of experience as a Data Scientist. Specializing in Generative AI and Large Language Models
+- 🧑🏼‍🎓 5+ yrs of experience as a Data Scientist. Specializing in Generative AI and Large Language Models
 
 - 📝 I regularly write articles on [https://medium.com/@parichay2406](https://medium.com/@parichay2406)
 
